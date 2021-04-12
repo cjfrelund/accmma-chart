@@ -1,0 +1,7 @@
+{
+  "name": "accmma-chart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
